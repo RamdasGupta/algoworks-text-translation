@@ -1,0 +1,14 @@
+{
+  "name": "algoworks",
+  "version": "1.0.0",
+  "description": "Text translation",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramdas Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "google-translate": "^3.0.0"
+  }
+}
